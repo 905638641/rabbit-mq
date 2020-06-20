@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="native" />
+        <module name="rq-spring-with" />
+        <module name="rq-order" />
+        <module name="rq-depot" />
+        <module name="spring-with-consumer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
